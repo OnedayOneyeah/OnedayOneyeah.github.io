@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>SNU Bldg #942, Research Park,</p>
+    <p>SNU Bldg #942, </p>
     <p>Gwanak-ro 1, Gwanak-gu</p>
     <p>Seoul, Republic of Korea (08826)</p>
 
