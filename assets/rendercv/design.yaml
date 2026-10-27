@@ -5,3 +5,15 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  typography:
+    alignment: left
+  entries:
+    space_between_columns: 0.4cm
+  templates:
+    education_entry:
+      degree_column:
+      main_column: |-
+        **INSTITUTION**
+        DEGREE_WITH_AREA
+        SUMMARY
+        HIGHLIGHTS
