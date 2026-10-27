@@ -1,10 +1,8 @@
 cv:
   name: Yewon Han
-  label: Deep Learning Researcher
+  headline: Deep Learning Researcher
   email: sign1028@snu.ac.kr
   location: Seoul
-  image: ""
-  summary: ""
 
   social_networks:
     - network: LinkedIn
@@ -12,18 +10,11 @@ cv:
     - network: GitHub
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
   sections:
     Education:
       - institution: Seoul National University
         location: Seoul, South Korea
-        url: 
+        url:
         area: Data Science
         studyType: PhD
         start_date: 2023
