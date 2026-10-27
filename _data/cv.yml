@@ -58,6 +58,15 @@ cv:
           “Test-time Adaptation with Energy-based Indicator in Open-set Scenarios,”
           Korea Computer Congress (KCC) 2024.
         url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861935
+      - name: Google ExploreCSR Program — Second Prize
+        title: Google ExploreCSR Program — Second Prize
+        awarder: Google ExploreCSR Program (sponsored by Google Research)
+        date: 2023-02
+        summary: >-
+          Developed a [KoBERT-based Korean fact verification system](https://github.com/OnedayOneyeah/factcheck-ko-2023)
+          in the Google Research-sponsored ExploreCSR Program, earning second prize.
+          This experience sparked my initial interest in AI safety and reliable human–AI interaction.
+        url: https://github.com/OnedayOneyeah/factcheck-ko-2023
       - name: FactCheck Cover Contest — Google News Prize
         title: FactCheck Cover Contest — Google News Prize
         awarder: Korean Federation of Broadcasting Journalists
@@ -141,6 +150,14 @@ cv:
     Professional Experience:
       - label: Marketing Intern
         details: NAVER WEBTOON
+
+    Teaching:
+      - label: Computing Fundamentals
+        details: Teaching Assistant — Spring 2024, Fall 2024, Fall 2025, Spring 2026
+      - label: Computing Fundamentals for Data Science
+        details: Teaching Assistant — Spring 2025
+      - label: Deep Learning II for Data Science
+        details: Teaching Assistant — Spring 2026
 
     Languages:
       - name: Korean
