@@ -40,10 +40,6 @@ cv:
         start_date: 2021
         end_date: 2022
 
-    Experience:
-      - company: NAVER WEBTOON
-        position: Marketing Intern
-
     Research Interests:
       - bullet: AI safety, adversarial robustness, and safety–utility trade-offs in large vision-language models.
       - bullet: Uncertainty estimation, energy-based models, and test-time adaptation.
@@ -140,6 +136,11 @@ cv:
         end_date: 2024-01
         summary: Korean fact-checking as a natural language inference (NLI) information verification task at Seoul National University.
         url: https://github.com/OnedayOneyeah/factcheck-ko-2023
+
+    # A generic section preserves this order instead of the theme's forced-first Experience list.
+    Professional Experience:
+      - label: Marketing Intern
+        details: NAVER WEBTOON
 
     Languages:
       - name: Korean
