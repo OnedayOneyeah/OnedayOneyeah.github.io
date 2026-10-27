@@ -1,5 +1,19 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Building Safe AI Systems for Human–AI Coexistence
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I'm a PhD student at the [Learning and Adaptation Algorithms Lab](https://snu-laal.com/index.html) at Seoul National University.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic journey spans communication, information science, cultural studies, and deep learning. Across these disciplines, I have been driven by one central question: **How can increasingly capable AI systems coexist with humans, meaningfully assist them, and remain accountable to those they affect?**
+
+I view AI safety not merely as a research direction, but as a fundamental challenge in integrating AI systems into the real world. My current research explores this challenge through robustness, uncertainty estimation in deep learning, and safety–utility trade-offs in large vision-language models (LVLMs).
+
+More recently, I have been developing an **egocentric safety evaluation benchmark for omni-modal large language models in wearable-device settings**, where AI systems must interpret and respond to rich, real-world contexts that extend beyond conventional vision-language inputs.
+
+This work has prompted me to think beyond methodological improvements and reconsider some of the fundamental assumptions underlying AI safety evaluation:
+
+- **What should count as "safe" behavior in AI systems?**
+- **How can we move beyond metrics such as Attack Success Rate and Refusal Rate**, which often reduce safety to a binary distinction between safe and unsafe outcomes?
+- **How should safety benchmarks account for the complex interactions among users, bystanders, and the physical world?**
+
+Together, these questions highlight a growing gap between conventional safety evaluation practices and the challenges posed by embodied, multimodal, and socially situated AI systems. I hope to contribute to bridging this gap by developing evaluation frameworks that better capture the contextual, relational, and real-world dimensions of AI safety.
+
+I'm always happy to connect over coffee or exchange ideas about **Trustworthy AI, AI Safety, and Uncertainty Estimation**. Feel free to reach out at [sign1028@snu.ac.kr](mailto:sign1028@snu.ac.kr)!
