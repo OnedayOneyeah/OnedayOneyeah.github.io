@@ -1,2 +1,4 @@
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
+# PDF files must not be merged or normalized as text.
+*.pdf binary
