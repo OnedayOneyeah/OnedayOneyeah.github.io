@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
@@ -10,3 +10,27 @@ description: Academic curriculum vitae of Yewon Han — research, publications, 
 toc:
   sidebar: left
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/al-folio-cv.css' | relative_url }}">
+
+<style>
+  .cv ul,
+  .cv ol {
+    list-style: none;
+    padding-inline-start: 0;
+  }
+
+  .cv li::marker {
+    content: "";
+  }
+
+  .cv .items {
+    margin-inline-start: 0;
+  }
+
+  .cv .items li + li {
+    margin-top: 0.35rem;
+  }
+</style>
+
+{% al_folio_cv_render %}
